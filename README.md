@@ -1,2 +1,34 @@
-# Dataset medicamentos
-En este repositorio se encuentra parte del dataset de 5 pastillas comerciales en Colombia, para revisar el dataset completo con más de 10.000 imágenes consulte:[https://zenodo.org/records/18176706token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImZiNTU5NWJhLTFiNGMtNDVmMi04YTA0LTExMmZlNzc4YTg0YyIsImRhdGEiOnt9LCJyYW5kb20iOiJmY2UxZTY2YTU1MzA2MWIyYzJhMTVmODdiZjQ5NzIyNiJ9.U09Es8VvAYON6raZM8AmLb7ZL-E241pu3jjLkgotf-qPfnReH_tfrXLom4RqI84ksksVFviP2meG2SxZL5649g](https://zenodo.org/records/18176706?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImZiNTU5NWJhLTFiNGMtNDVmMi04YTA0LTExMmZlNzc4YTg0YyIsImRhdGEiOnt9LCJyYW5kb20iOiJmY2UxZTY2YTU1MzA2MWIyYzJhMTVmODdiZjQ5NzIyNiJ9.U09Es8VvAYON6raZM8AmLb7ZL-E241pu3jjLkgotf-qPfnReH_tfrXLom4RqI84ksksVFviP2meG2SxZL5649g)
+# 💊 Dataset de Medicamentos
+
+### 📸 Dataset de imágenes de pastillas comerciales en Colombia
+
+Este repositorio contiene una **muestra representativa de un dataset de imágenes** correspondiente a **5 medicamentos comerciales** disponibles en Colombia, capturados con fines de análisis, clasificación y reconocimiento visual.
+
+El dataset completo, que incluye **más de 10.000 imágenes**, se encuentra disponible públicamente en **Zenodo** y puede consultarse en el siguiente enlace:
+
+🔗 **Dataset completo (Zenodo):**  
+https://zenodo.org/records/18176706
+
+---
+
+### 🧠 Aplicaciones Potenciales
+
+Este conjunto de datos es adecuado para el desarrollo y evaluación de algoritmos en áreas como:
+
+- 🤖 Visión por computador
+- 🧠 Aprendizaje automático y Deep Learning
+- 📦 Clasificación de objetos
+- 🏥 Sistemas de apoyo en entornos farmacéuticos
+- 🔍 Reconocimiento automático de medicamentos
+
+---
+
+### 📂 Contenido del Repositorio
+
+- 📌 Imágenes de **5 tipos de pastillas comerciales**
+- 📷 Fotografías capturadas bajo condiciones controladas
+- 🧪 Subconjunto del dataset completo para pruebas y validación rápida
+
+---
+
+> 💡 *Este dataset fue creado con fines académicos y experimentales, facilitando la investigación en clasificación visual de medicamentos y sistemas inteligentes.*
